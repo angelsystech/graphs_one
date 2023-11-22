@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1700681536 source:c:\puc\proj\grafos\grafos\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"graph.h"
+
+1700683124 source:c:\puc\proj\grafos\grafos\graph.cpp
+	<iostream>
+	<stdio.h>
+	<string.h>
+	"graph.h"
+
+1700681536 c:\puc\proj\grafos\grafos\graph.h
+	<iostream>
+
